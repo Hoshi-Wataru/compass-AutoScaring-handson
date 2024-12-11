@@ -11,5 +11,7 @@ compass-AutoScaring-handson
 これらを使いハンズオンを行います。
 
 ダウンロードは以下の手順で行ってください。
+
 1)画面右上の「Code」をクリック
+
 2)Download zipをクリック
