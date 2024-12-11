@@ -1,8 +1,11 @@
 # compass-AutoScaring-handson
 compass-AutoScaring-handson
 ご確認ありがとうございます。 こちらのデータは私達が開催しているハンズオンLab.用の
-・手順
-・IaC
+
+  ・手順
+
+  ・IaC
+
 です。
 
 これらを使いハンズオンを行います。
